@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "created_at": "2022-02-12 21:05:08",
+    "updated_at": "2022-02-12 21:05:08",
+    "first_name": "Hal",
+    "last_name": "Migues",
+    "house": "newton"
+  },
+  {
+    "id": 2,
+    "created_at": "1972-01-03 18:33:35",
+    "updated_at": "1972-01-03 18:33:35",
+    "first_name": "Daren",
+    "last_name": "Nedrow",
+    "house": "compton"
+  },
+  {
+    "id": 3,
+    "created_at": "1983-04-23 02:17:30",
+    "updated_at": "1983-04-23 02:17:30",
+    "first_name": "Valarie",
+    "last_name": "Blegen",
+    "house": "landsdown"
+  },
+  {
+    "id": 4,
+    "created_at": "1985-09-07 05:46:32",
+    "updated_at": "1985-09-07 05:46:32",
+    "first_name": "Margarita",
+    "last_name": "Abramoff",
+    "house": "landsdown"
+  },
+  {
+    "id": 5,
+    "created_at": "1984-10-26 18:29:05",
+    "updated_at": "1984-10-26 18:29:05",
+    "first_name": "Vincent",
+    "last_name": "Volker",
+    "house": "landsdown"
+  },
+  {
+    "id": 6,
+    "created_at": "1975-06-05 18:10:49",
+    "updated_at": "1975-06-05 18:10:49",
+    "first_name": "Cruz",
+    "last_name": "Lemler",
+    "house": "compton"
+  },
+  {
+    "id": 7,
+    "created_at": "1981-10-18 11:32:57",
+    "updated_at": "1981-10-18 11:32:57",
+    "first_name": "Dusti",
+    "last_name": "Kloppenburg",
+    "house": "landsdown"
+  },
+  {
+    "id": 8,
+    "created_at": "1991-09-28 23:02:36",
+    "updated_at": "1991-09-28 23:02:36",
+    "first_name": "Adolph",
+    "last_name": "Kuo",
+    "house": "burnett"
+  },
+  {
+    "id": 9,
+    "created_at": "2015-09-13 17:38:28",
+    "updated_at": "2015-09-13 17:38:28",
+    "first_name": "Xavier",
+    "last_name": "Leggitt",
+    "house": "newton"
+  },
+  {
+    "id": 10,
+    "created_at": "2010-07-27 10:39:36",
+    "updated_at": "2010-07-27 10:39:36",
+    "first_name": "Rodrigo",
+    "last_name": "Cucco",
+    "house": "compton"
+  },
+  {
+    "id": 11,
+    "created_at": "2018-01-11 07:01:41",
+    "updated_at": "2018-01-11 07:01:41",
+    "first_name": "Ned",
+    "last_name": "Pinkney",
+    "house": "compton"
+  },
+  {
+    "id": 12,
+    "created_at": "1988-11-04 07:06:57",
+    "updated_at": "1988-11-04 07:06:57",
+    "first_name": "Terrance",
+    "last_name": "Camp",
+    "house": "newton"
+  },
+  {
+    "id": 13,
+    "created_at": "1973-08-18 00:42:49",
+    "updated_at": "1973-08-18 00:42:49",
+    "first_name": "Hermine",
+    "last_name": "Degelbeck",
+    "house": "newton"
+  },
+  {
+    "id": 14,
+    "created_at": "2008-02-07 20:42:11",
+    "updated_at": "2008-02-07 20:42:11",
+    "first_name": "Erin",
+    "last_name": "Pusch",
+    "house": "burnett"
+  },
+  {
+    "id": 15,
+    "created_at": "2018-07-17 07:39:47",
+    "updated_at": "2018-07-17 07:39:47",
+    "first_name": "Chris",
+    "last_name": "Eaglin",
+    "house": "landsdown"
+  },
+  {
+    "id": 16,
+    "created_at": "1986-10-24 16:18:31",
+    "updated_at": "1986-10-24 16:18:31",
+    "first_name": "Dusty",
+    "last_name": "Turpiano",
+    "house": "landsdown"
+  },
+  {
+    "id": 17,
+    "created_at": "1978-08-14 01:32:28",
+    "updated_at": "1978-08-14 01:32:28",
+    "first_name": "Thomas",
+    "last_name": "Giambruno",
+    "house": "newton"
+  },
+  {
+    "id": 18,
+    "created_at": "1998-10-12 16:26:30",
+    "updated_at": "1998-10-12 16:26:30",
+    "first_name": "Felix",
+    "last_name": "Hammar",
+    "house": "compton"
+  },
+  {
+    "id": 19,
+    "created_at": "1972-04-19 04:10:24",
+    "updated_at": "1972-04-19 04:10:24",
+    "first_name": "Santo",
+    "last_name": "Keys",
+    "house": "newton"
+  },
+  {
+    "id": 20,
+    "created_at": "2018-12-17 16:22:51",
+    "updated_at": "2018-12-17 16:22:51",
+    "first_name": "Minh",
+    "last_name": "Gieringer",
+    "house": "compton"
+  },
+  {
+    "id": 21,
+    "created_at": "2009-05-22 12:37:25",
+    "updated_at": "2009-05-22 12:37:25",
+    "first_name": "Darius",
+    "last_name": "Argrave",
+    "house": "newton"
+  },
+  {
+    "id": 22,
+    "created_at": "1976-11-23 01:10:42",
+    "updated_at": "1976-11-23 01:10:42",
+    "first_name": "Seth",
+    "last_name": "Tyson",
+    "house": "compton"
+  },
+  {
+    "id": 23,
+    "created_at": "2021-08-24 05:07:56",
+    "updated_at": "2021-08-24 05:07:56",
+    "first_name": "Kristofer",
+    "last_name": "Ruppel",
+    "house": "landsdown"
+  },
+  {
+    "id": 24,
+    "created_at": "2007-08-11 16:53:15",
+    "updated_at": "2007-08-11 16:53:15",
+    "first_name": "Lia",
+    "last_name": "Brisky",
+    "house": "newton"
+  },
+  {
+    "id": 25,
+    "created_at": "1999-12-01 02:51:01",
+    "updated_at": "1999-12-01 02:51:01",
+    "first_name": "Valentine",
+    "last_name": "Savery",
+    "house": "compton"
+  },
+  {
+    "id": 26,
+    "created_at": "2002-09-13 19:34:36",
+    "updated_at": "2002-09-13 19:34:36",
+    "first_name": "Dottie",
+    "last_name": "Baydal",
+    "house": "newton"
+  },
+  {
+    "id": 27,
+    "created_at": "2016-03-17 06:10:53",
+    "updated_at": "2016-03-17 06:10:53",
+    "first_name": "Lavern",
+    "last_name": "Braunberger",
+    "house": "compton"
+  },
+  {
+    "id": 28,
+    "created_at": "2022-10-03 11:04:15",
+    "updated_at": "2022-10-03 11:04:15",
+    "first_name": "Bea",
+    "last_name": "Osawa",
+    "house": "newton"
+  },
+  {
+    "id": 29,
+    "created_at": "1971-10-02 19:07:35",
+    "updated_at": "1971-10-02 19:07:35",
+    "first_name": "Ivey",
+    "last_name": "Kanosh",
+    "house": "compton"
+  },
+  {
+    "id": 30,
+    "created_at": "2014-07-28 05:24:13",
+    "updated_at": "2014-07-28 05:24:13",
+    "first_name": "Sam",
+    "last_name": "Mccampbell",
+    "house": "compton"
+  },
+  {
+    "id": 31,
+    "created_at": "1992-01-06 13:19:03",
+    "updated_at": "1992-01-06 13:19:03",
+    "first_name": "Sebastian",
+    "last_name": "Heys",
+    "house": "burnett"
+  },
+  {
+    "id": 32,
+    "created_at": "2012-10-06 02:44:37",
+    "updated_at": "2012-10-06 02:44:37",
+    "first_name": "Julissa",
+    "last_name": "Pfliger",
+    "house": "landsdown"
+  },
+  {
+    "id": 33,
+    "created_at": "1993-11-27 19:16:15",
+    "updated_at": "1993-11-27 19:16:15",
+    "first_name": "Michal",
+    "last_name": "Scantlebury",
+    "house": "compton"
+  },
+  {
+    "id": 34,
+    "created_at": "2017-07-05 20:38:06",
+    "updated_at": "2017-07-05 20:38:06",
+    "first_name": "David",
+    "last_name": "Estill",
+    "house": "burnett"
+  },
+  {
+    "id": 35,
+    "created_at": "2016-09-15 03:59:23",
+    "updated_at": "2016-09-15 03:59:23",
+    "first_name": "Geoffrey",
+    "last_name": "Visalli",
+    "house": "compton"
+  },
+  {
+    "id": 36,
+    "created_at": "2019-08-27 06:08:28",
+    "updated_at": "2019-08-27 06:08:28",
+    "first_name": "Federico",
+    "last_name": "Gamblin",
+    "house": "newton"
+  },
+  {
+    "id": 37,
+    "created_at": "1980-05-12 10:30:47",
+    "updated_at": "1980-05-12 10:30:47",
+    "first_name": "Leonila",
+    "last_name": "Khn",
+    "house": "compton"
+  },
+  {
+    "id": 38,
+    "created_at": "1989-10-01 11:59:29",
+    "updated_at": "1989-10-01 11:59:29",
+    "first_name": "Nicki",
+    "last_name": "Klemisch",
+    "house": "burnett"
+  },
+  {
+    "id": 39,
+    "created_at": "1987-12-06 07:52:31",
+    "updated_at": "1987-12-06 07:52:31",
+    "first_name": "Bernie",
+    "last_name": "Norlander",
+    "house": "burnett"
+  },
+  {
+    "id": 40,
+    "created_at": "1981-08-05 15:56:32",
+    "updated_at": "1981-08-05 15:56:32",
+    "first_name": "Randall",
+    "last_name": "Yonts",
+    "house": "burnett"
+  },
+  {
+    "id": 41,
+    "created_at": "2019-08-13 19:36:42",
+    "updated_at": "2019-08-13 19:36:42",
+    "first_name": "Gonzalo",
+    "last_name": "Whipple",
+    "house": "compton"
+  },
+  {
+    "id": 42,
+    "created_at": "1992-01-03 23:03:16",
+    "updated_at": "1992-01-03 23:03:16",
+    "first_name": "Camelia",
+    "last_name": "Schwamberger",
+    "house": "newton"
+  },
+  {
+    "id": 43,
+    "created_at": "2003-04-14 15:11:47",
+    "updated_at": "2003-04-14 15:11:47",
+    "first_name": "Alva",
+    "last_name": "Dotson",
+    "house": "newton"
+  },
+  {
+    "id": 44,
+    "created_at": "1983-06-19 12:10:37",
+    "updated_at": "1983-06-19 12:10:37",
+    "first_name": "Leonardo",
+    "last_name": "Dotson",
+    "house": "newton"
+  },
+  {
+    "id": 45,
+    "created_at": "2008-04-07 13:54:51",
+    "updated_at": "2008-04-07 13:54:51",
+    "first_name": "Chadwick",
+    "last_name": "Lassalle",
+    "house": "newton"
+  },
+  {
+    "id": 46,
+    "created_at": "2003-05-11 18:28:02",
+    "updated_at": "2003-05-11 18:28:02",
+    "first_name": "Paulene",
+    "last_name": "Skaare",
+    "house": "newton"
+  },
+  {
+    "id": 47,
+    "created_at": "1991-04-30 05:37:14",
+    "updated_at": "1991-04-30 05:37:14",
+    "first_name": "Emerald",
+    "last_name": "Mellgren",
+    "house": "newton"
+  },
+  {
+    "id": 48,
+    "created_at": "1988-11-05 00:30:26",
+    "updated_at": "1988-11-05 00:30:26",
+    "first_name": "Latina",
+    "last_name": "Tillou",
+    "house": "newton"
+  },
+  {
+    "id": 49,
+    "created_at": "1986-10-10 10:50:23",
+    "updated_at": "1986-10-10 10:50:23",
+    "first_name": "Gabriel",
+    "last_name": "Renda",
+    "house": "compton"
+  },
+  {
+    "id": 50,
+    "created_at": "1976-07-31 06:03:42",
+    "updated_at": "1976-07-31 06:03:42",
+    "first_name": "Guy",
+    "last_name": "Umscheid",
+    "house": "newton"
+  }
+]

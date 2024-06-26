@@ -1,0 +1,7 @@
+
+runtime: nodejs16
+
+env_variables:
+  DB_USER: ""
+  DB_PW: ""
+  DB_HOST: ""
