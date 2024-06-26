@@ -1,13 +1,16 @@
-# augusta-node-express
 
-This is the code from the Node & Express content of the course.
-Each lesson's code & notes are on their own branch.
+# Student RESTful API
 
-## Branches
+This project provides a Student RESTful API using Node.js and Express.js, tested with Postman.
 
-- `main` : Current state of the project
-- `01-node-express` : Intro to Node and Express.
-  - Looking at `fs`, `GET` and `DELETE` endpoints and `PARAMS`
-- `02-routes-endpoints` : Refactoring API & body-parser.
-  - Looking at API architecture, Creating A `POST` endpoint.
-- `03-mvc` : Refactoring API Adding a controller
+## Technologies Used
+
+- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine. It is used to build the server-side of the application.
+- **Express.js**: A minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. It is used to create the RESTful endpoints for the Student API.
+- **Postman**: A collaboration platform for API development. Postman is used to test the API endpoints by making HTTP requests and verifying the responses.
+
+ ## Next Step:
+The next step is to deploy the project on Google Cloud Platform (GCP).
+
+
+
