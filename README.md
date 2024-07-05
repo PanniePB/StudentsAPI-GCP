@@ -12,7 +12,7 @@ This project provides a Student RESTful API using Node.js and Express.js, tested
  ## Next Step:
 The next step is to deploy the project on Google Cloud Platform (GCP).
 
-# 27/062024
+# 27/06/2024
  The project was deployed via GCP. Here are the steps to deploy the application:
 
 1. **Create a new project on Google Cloud Platform**:
